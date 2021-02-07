@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DynamicWidgets", "DynamicWidgets.vcxproj", "{B2991807-B46B-4C95-B210-FCE3352110ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2991807-B46B-4C95-B210-FCE3352110ED}.Debug|x64.ActiveCfg = Debug|x64
+		{B2991807-B46B-4C95-B210-FCE3352110ED}.Debug|x64.Build.0 = Debug|x64
+		{B2991807-B46B-4C95-B210-FCE3352110ED}.Release|x64.ActiveCfg = Release|x64
+		{B2991807-B46B-4C95-B210-FCE3352110ED}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FC4CCC7-051E-4226-9691-8DAA4CCF1B38}
+	EndGlobalSection
+EndGlobal
